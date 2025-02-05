@@ -34,7 +34,7 @@ api_url_log = 'https://m2m.cr.usgs.gov/api/api/json/stable/login'
 
        
 username = 'wuethrca'
-password = '-v|4Uv_s26Vve_d'
+password = ''
 
 credentials = {"username": username, "password": password}
 
